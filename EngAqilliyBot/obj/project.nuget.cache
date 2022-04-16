@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nch+Gjq0/RrKvB32Ab19GouUz9msEwnGZ7/8Vrv2nQIMQrWPlNQY1JpQg+IQFt9BQvs3h2e/Q2DqHTdWiE9wGA==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\telerambot\\EngAqilliyBot\\EngAqilliyBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NOVO\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\NOVO\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\NOVO\\.nuget\\packages\\telegram.bot\\17.0.0\\telegram.bot.17.0.0.nupkg.sha512",
+    "C:\\Users\\NOVO\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.2\\telegram.bot.extensions.polling.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
